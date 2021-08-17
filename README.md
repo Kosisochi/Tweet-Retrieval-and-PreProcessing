@@ -1,2 +1,2 @@
 # Tweet-Retrieval-and-PreProcessing
-Retrievee tweets using the Tweet ID and then clean the tweets ready for text classifcation
+Retrieve tweets using the Tweet IDs and then clean the tweets ready for text classification
